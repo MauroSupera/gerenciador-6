@@ -466,7 +466,7 @@ listar_bots() {
             "CURIOSITY BOT - https://github.com/AzamiJs/CuriosityBot-MD.git"
             "NOVA BOT - https://github.com/elrebelde21/NovaBot-MD.git"
             "MEGUMIN BOT - https://github.com/David-Chian/Megumin-Bot-MD"
-            "YAEMORI BOT - https://github.com/Dev-Diego/YaemoriBot-MD"
+            "YAEMORI BOT - https://github.com/OfcKing/SenkoBot-MD"
             "THEMYSTIC BOT - https://github.com/BrunoSobrino/TheMystic-Bot-MD.git"
         )
     fi
